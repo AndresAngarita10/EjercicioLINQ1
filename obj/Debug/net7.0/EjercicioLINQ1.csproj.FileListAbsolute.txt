@@ -13,3 +13,20 @@
 /home/arteN01-039/Documents/AndresAngarita C#/clase08-10/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.pdb
 /home/arteN01-039/Documents/AndresAngarita C#/clase08-10/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.genruntimeconfig.cache
 /home/arteN01-039/Documents/AndresAngarita C#/clase08-10/EjercicioLINQ1/obj/Debug/net7.0/ref/EjercicioLINQ1.dll
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/EjercicioLINQ1
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/EjercicioLINQ1.deps.json
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/EjercicioLINQ1.runtimeconfig.json
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/EjercicioLINQ1.dll
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/EjercicioLINQ1.pdb
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.csproj.AssemblyReference.cache
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.AssemblyInfoInputs.cache
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.AssemblyInfo.cs
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.csproj.CoreCompileInputs.cache
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.csproj.CopyComplete
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.dll
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/refint/EjercicioLINQ1.dll
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.pdb
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/EjercicioLINQ1.genruntimeconfig.cache
+/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/obj/Debug/net7.0/ref/EjercicioLINQ1.dll

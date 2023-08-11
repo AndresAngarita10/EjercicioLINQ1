@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AJE5uVPtVykRP7ypUfBDLyOpV4Y+KvOO6EUKue6uDuEA2moUMH5azGsn/T+j5XcyXR4qER1T7ghyvUJf9mengw==",
+  "dgSpecHash": "f2yaMYfgVlsdm9t5VTNTNJD0r7AA4k4YdcvE5PWdTh0xxgz/2Ui1ugkCw9MhDb6F0vdpP1BsUwQJRMVf4q6OPg==",
   "success": true,
-  "projectFilePath": "/home/arteN01-039/Documents/AndresAngarita C#/clase08-10/EjercicioLINQ1/EjercicioLINQ1.csproj",
+  "projectFilePath": "/home/skylab-149/Documents/AndresC#/10-08/EjercicioLINQ1/EjercicioLINQ1.csproj",
   "expectedPackageFiles": [
-    "/home/arteN01-039/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/skylab-149/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "a967cd57-7cbc-44d1-8896-16b1d8ae77bb",
+    "Nombre": "XXXXXX",
+    "Stock": 8,
+    "StockMin": 10,
+    "StockMax": 20,
+    "PrecioVenta": 23000,
+    "PrecioCompra": 5000,
+    "IdCategoria": 0
+  }
+]
